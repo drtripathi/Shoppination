@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "857212641338",
+    "firebase_url": "https://shoppination-a05e7.firebaseio.com",
+    "project_id": "shoppination-a05e7",
+    "storage_bucket": "shoppination-a05e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857212641338:android:3b9f91eb8844b0cb",
+        "android_client_info": {
+          "package_name": "com.drt.shoppination"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857212641338-dp2vls6fk3m9oj7u2q8u2fa0jmhl08hg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.drt.shoppination",
+            "certificate_hash": "d748f2e81e2de50df7c8ac4c8d227e6e19598c63"
+          }
+        },
+        {
+          "client_id": "857212641338-atno5omp8v5r3m0a52odkqnmem4dee93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2raLAbzFrzH-p7Z2zU_IL3sXA4jgXZok"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857212641338-atno5omp8v5r3m0a52odkqnmem4dee93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
